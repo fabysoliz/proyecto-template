@@ -1,4 +1,4 @@
-*Antes de escribir el README debemos tener en cuenta que la documentación será leída por personas que no están en nuestro equipo o por persona que ingresarán a trabajar en la empresa.*
+*Antes de escribir el README debemos considerar que la documentación será leída por personas que no están en nuestro equipo o por persona que ingresarán a trabajar en la empresa. Debe ser lo suficientemente clara para que lo puedan entender cualquier persona.*
 
 #Sinopsis
 
@@ -6,7 +6,7 @@
 - Mencionar las funcionalidades más relevantes. 
 - Mencionar los proyectos con los que está relacionado. 
 - Acceso directos a documentación o páginas de uso frecuente.
-- Agregar cualquier otra información que ayude al entendimiento del proyecto (diagramas, código de ejemplo, doc´s, etc)
+- Agregar cualquier otra información que ayude al entendimiento del proyecto (diagramas, código de ejemplo, doc's, etc)
 
 #Estructura de Directorios
 
@@ -16,8 +16,7 @@
 #Instalación 
 
 - Cómo se instala la app?
-- Qué soft, librerías y otros proyectos necesito?  
-- Cuáles son las versiones?
+- Qué soft, librerías y otros proyectos necesito? Cuáles son las versiones?
 - Definir una guia paso a paso para instalar el proyecto. 
 
 1. Install SDK Man: 
@@ -43,19 +42,10 @@
 
 #Ciclo de trabajo 
 
-- Cómo es el ciclo de trabajo del equipo? 
+- Cuál es el ciclo de trabajo del equipo? 
 - Cuáles son los estados que pueden tener los issues ? 
 
 *La forma de trabajo puede variar en cada equipo y/o proyecto.*
-
-#[Changelog](https://github.com/fabysoliz/proyecto-template/wiki/Changelog) 
-
-Listar las versiones de la aplicación con una pequeña descripción (ordenarlas en forma descendente). 
-Agregar un link a la wiki para obtener más detalles sobre cada una de las versiones.
-
-- **0.2**  - Dashboard con estadísticas de alertas - 2016-12-10
-- **0.1**  - Módulo de alertas para errores de backend - 2016-11-20
-- **0.01**: .....
 
 
 #Colaboradores - Area/Sector
@@ -65,6 +55,3 @@ Agregar un link a la wiki para obtener más detalles sobre cada una de las versi
 - :bear: Bertolo Alejandro (Desarrollador)
 - :rabbit: Solíz Fabián (Desarrollador)
 
-
-# proyecto-template
-Proyecto de ejemplo que muestra el uso de diferentes herramientas de github.
