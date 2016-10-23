@@ -57,6 +57,7 @@
 #Material de referencia
 - [wiki](https://github.com/fabysoliz/proyecto-template/wiki/Material-de-referencia)
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 369f1dd... Elimino changelog del readme
 =======
@@ -64,8 +65,13 @@
 - [wiki](https://github.com/fabysoliz/proyecto-template/wiki/Material-de-referencia)
 >>>>>>> 39ba0c9... Agrego link a material de referencia
 =======
+=======
+>>>>>>> 0d1cb43... Agrego material de referencia en el readme
 - [Issue de ejemplo](https://github.com/fabysoliz/proyecto-template/issues/1)
 - [Project de ejemplo](https://github.com/fabysoliz/proyecto-template/projects/1) 
 - [Epic de ejemplo](https://github.com/fabysoliz/proyecto-template/issues/8)
 - [Gist de ejemplo](https://gist.github.com/fabysoliz/016e6a4650b51915062733f44e4af936)
+<<<<<<< HEAD
 >>>>>>> 11891fd... Agrego material de referencia en el readme.md
+=======
+>>>>>>> 0d1cb43... Agrego material de referencia en el readme
