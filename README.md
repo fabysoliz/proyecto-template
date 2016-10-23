@@ -19,20 +19,17 @@
 - Qué soft, librerías y otros proyectos necesito? Cuáles son las versiones?
 - Definir una guia paso a paso para instalar el proyecto. 
 
-1. Install SDK Man: 
-	`http://sdkman.io/`
+1. Install SDK Man:  [sdkma](http://sdkman.io/)
 
 2. Download and install required Grails version and set to default:
 	`sdk install grails 2.3.11`
 
-3. Install Brew: 
-	`http://brew.sh/`
+3. Install Brew: [brew](http://brew.sh/)
 
 4. Install Local Balancer:
 	`brew install nginx`
 
-5. Install NodeJs:
-	`https://nodejs.org/en/`
+5. Install NodeJs: [nodeJS](https://nodejs.org/en/)
 
 6. Update Balancer configuration: 
 	`cp environment/nginx.conf /usr/local/etc/nginx/nginx.conf`
