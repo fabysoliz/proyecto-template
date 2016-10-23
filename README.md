@@ -53,7 +53,12 @@
 - :rabbit: Solíz Fabián (Desarrollador)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Material de referencia
 - [wiki](https://github.com/fabysoliz/proyecto-template/wiki/Material-de-referencia)
 =======
 >>>>>>> 369f1dd... Elimino changelog del readme
+=======
+#Material de referencia
+- [wiki](https://github.com/fabysoliz/proyecto-template/wiki/Material-de-referencia)
+>>>>>>> 39ba0c9... Agrego link a material de referencia
