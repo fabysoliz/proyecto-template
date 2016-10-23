@@ -52,5 +52,8 @@
 - :bear: Bertolo Alejandro (Desarrollador)
 - :rabbit: Solíz Fabián (Desarrollador)
 
+<<<<<<< HEAD
 #Material de referencia
 - [wiki](https://github.com/fabysoliz/proyecto-template/wiki/Material-de-referencia)
+=======
+>>>>>>> 369f1dd... Elimino changelog del readme
